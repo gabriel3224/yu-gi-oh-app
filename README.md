@@ -6,29 +6,29 @@ Com o Objetivo de treinar minhas habilidades de front-End este projeto pessoal f
 ## Funcionalidades
 - 🔍 Busca de Cartas Inteligente: Pesquise qualquer carta do universo de Yu-Gi-Oh! com um sistema de sugestões
 
-![alttext](/yu-gi-oh-app/src/assets/imgs/Tela%20inicial2.png)
+![alt text](image-4.png)
 
-![alttext](/yu-gi-oh-app/src/assets/imgs/Busca.png)
+![alt text](image-6.png)
 ---
 - ⚙️ Filtros Avançados: Refine suas buscas por Tipo de Carta (Monstro, Magia, Armadilha), Raça (Guerreiro, Mago, Dragão...), Atributo (LUZ, TREVAS, etc.) e Nível/Rank.
 
-![alttext](/yu-gi-oh-app/src/assets/imgs/Filtro.png)
+![alt text](image-7.png)
 ---
 - ❤️ Sistema de Favoritos: Salve suas cartas preferidas para acessá-las rapidamente a qualquer momento. Os favoritos são salvos no seu navegador!
 
-![alt text](/yu-gi-oh-app/src/assets/imgs/favoritas.png)
+![alt text](image-8.png)
 ---
 - 📖 Guia "Como Jogar": Uma seção completa e detalhada para novos jogadores, explicando os objetivos, o campo de jogo, os tipos de cartas e as fases de um turno, tudo ilustrado com exemplos visuais.
 
-![alt text](/yu-gi-oh-app/src/assets/imgs/Como%20jogar.png)
+![alt text](image-9.png)
 ---
 - 👤 Personagens em Destaque: Explore duelistas icônicos da saga e veja suas cartas mais famosas.
 
-![alt text](/yu-gi-oh-app/src/assets/imgs/personagens.png)
+![alt text](image-10.png)
 ---
 - 📊 Detalhes Completos da Carta: Clique em qualquer carta para abrir um modal com todas as suas informações: imagem em alta resolução (com zoom!), descrição, ATK/DEF, arquétipo e preços de mercado de diversas lojas.
 
-![alt text](/yu-gi-oh-app/src/assets/imgs/Modal.png)
+![alt text](image-11.png)
 ---
 ## Tecnologias Utilizadas
 - React: Uma biblioteca JavaScript para construir interfaces de utilizador.
