@@ -3,6 +3,9 @@ Uma aplicação web interativa para os fãs de Duelo de Monstros.
 
 Com o Objetivo de treinar minhas habilidades de front-End este projeto pessoal foi criado com o para fornecer uma interface rápida, bonita e intuitiva para explorar o vasto universo de cartas de Yu-Gi-Oh!
 
+## Confira:
+- [https://yu-gi-oh-app-ten.vercel.app](https://yu-gi-oh-app-ten.vercel.app)
+
 ## Funcionalidades
 - 🔍 Busca de Cartas Inteligente: Pesquise qualquer carta do universo de Yu-Gi-Oh! com um sistema de sugestões
 
@@ -40,3 +43,4 @@ Com o Objetivo de treinar minhas habilidades de front-End este projeto pessoal f
 - React Router: Para a navegação e gestão de múltiplas páginas na aplicação
 
 - API do YGOPRODeck: A API RESTful completa que fornece todos os dados das cartas, incluindo imagens, preços e traduções, sendo a espinha dorsal de toda a aplicação. --> [Yu-Gi-Oh API](https://ygoprodeck.com/api-guide) <--
+
