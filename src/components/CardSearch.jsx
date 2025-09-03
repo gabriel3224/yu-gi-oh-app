@@ -8,7 +8,7 @@ import kaibaImage from '../assets/seto kaiba.jpg';
 import joeyImage from '../assets/joey wheeler.jpg';
 import pegasusImage from '../assets/maximillion pegasus.jpg';
 import jadenImage from '../assets/jaden yuki.jpg';
-import yuseiImage from '../assets/yusei fudo.jpg';
+import yuseiImage from '../assets/Yusei fudo.jpg';
 
 // Dados dos personagens com os nomes das cartas em português
 const charactersData = [
